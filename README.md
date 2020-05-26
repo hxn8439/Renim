@@ -18,32 +18,9 @@ Compilation instructions:
 ->make sure the source files are in the Xamp htdocs folder.
 
 Script 1:
-->type in a web address : http://localhost/delete.php
-->Fill in the Data in all fields
+->type in a web address : http://localhost/index.php
+->Then you should see the home page of Renim with several tab queries
+->Fill in the Data in all fields of a requested query
 ->click on submit button
 
-Script 2:
-->type in a web address : http://localhost/display.php
-->Fill in the Data in all fields
-->click on submit button
-
-Script 3:
-->type in a web address : http://localhost/insert.php
-->Fill in the Data in all fields
-->click on submit button          
-
-Script 4:
-->type in a web address : http://localhost/update.php
-->Fill in the Data in all fields
-->click on submit button     
-
-
-Script 5:
-->type in a web address : http://localhost/view1.php
-->Fill in the Data in all fields
-->click on submit button   
-
-Script 6:
-->type in a web address : http://localhost/view2.php
-->Fill in the Data in all fields
-->click on submit button   
+Note: this execution is done only as a localHost
