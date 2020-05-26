@@ -1,0 +1,16 @@
+CustomerID,NoOfItems,Email,Phone,Address,FName,LName,RefID
+14,48,juiaen@yahoo.com,617-882-3184,"31 Phillips Street, Boston, MA",June,Lane,101
+15,38,kaifajmr@aol.com,207-883-0814,"335 Brighton Avenue, Portland, ME",Kaifa,Jari,102
+13,37,hanai@yahoo.com,808-581-1411,"05500 Lanikuhana Avenue, Milani, HI",Hanai,Loni,103
+17,34,hyaua@yahoo.com,802-716-6417,"68 Strongs Avenue, Rutland, VT",Hyuna,Yuna,104
+11,28,maari@gmail.com,313-273-1931,"3435 2nd Avenue, Detroit, MI",Mari,Kari,105
+16,27,afnakr@zoho.com,603-441-1841,"36 Clinton Street, Concord, NH",Afar,Nakar,106
+7,20,janie@aol.com,302-914-1341,"14 E Loockermann Street, Dover, DE",Janie,Kane,107
+6,19,ikahi@gmail.com,907-551-1481,"4800 Cordova Street, Anchorage, AK",Ida,Kahi,108
+10,19,kairaork@gmail.com,479-319-4191,"3400 Rogers Avenue, Ft. Smith, AR",Kanda,Roka,109
+12,19,jaurai@yahoo.com,206-713-1419,"3820 Rainier Avenue, Seattle, WA",Juan,Nari,110
+9,15,quandk@gmail.com,580-381-1491,"119 W Main Street, Ada, OK",Quan,Dak,111
+8,14,kashini@gmail.com,817-224-1491,"101 S Center Street, Arlington, TX",Ivan,Kashi,112
+5,10,ltorres@yahoo.com,604-271-3914,"421 N Phillis Avenue, Sioux Fall, SD",Linda,Torres,113
+1,8,koh@gmail.com,213-455-9001,"8101 Moss Street, Los Angeles, CA",Karen,Oh,114
+4,7,sanira@gmail.com,512-814-1930,"1000 Exposition Street, Austin, TX",Sandra,Ira,115

@@ -1,0 +1,16 @@
+BuyerID,NoOfItems,Address,Email,Phone,Fname,Lname
+154148,8,"123 Aloha Street, Psasadena, CA",hwhwhw@gmail.com,213-445-3201,Helen,Wei
+154149,10,"101 Center Street, Arlington, TX",aiario@gmail.com,817-381-4812,Ian,Young
+154120,19,"300 Congress Avenue, Austin, TX",lilianas@yahoo.com,512-371-2381,Liliana,Yap
+154121,15,"1000 Pacific Avenue, Beachwood, NJ",raomi@gmail.com,732-505-1293,Ron,Ward
+154122,28,"124 Sheridan Avenue, Albany, NY",mike923@gmail.com,518-381-2313,Mike,King
+154125,50,"151850 Akeakamai Loop, Pahoa, HI",paofaie@gmail.com,808-941-2144,Peter,Pan
+154141,31,"55220 Kulani Street, Laie, HI",asiear@yahoo.com,808-441-2139,Alex,Lear
+154155,15,"3481 Elgin Street, Houston, TX",maigan3@gmail.com,713-401-3914,Magen,Nguyen
+161717,30,"2200 Simon Bolivar Avenue, New Orleans, LA",daifka@yahoo.com,504-841-2138,Dan,Fang
+161719,40,"1121 Quarrier Street, Charlston, WV",mafaoq@aol.com,304-841-1314,Manny,Quong
+161813,30,"1700 Peach Street, Erie, PA",jiakae@gmail.com,814-911-1481,James,Kag
+181910,29,"163 Center Street, Provo, UT",samair@yahoo.com,801-319-1401,Sam,Lee
+181911,30,"616 Crook Avenue, Cheyenne, WY",biaga@gmail.com,307-223-1391,Ben,Tuan
+192310,40,"966 Getwell Road, Memphis, TN",jiaoratk@gmail.com,901-381-1491,Jon,Rak
+192311,38,"2101 Division Street, St. Louis, MO",naiakrgm@aol.com,314-819-1381,Nancy,King

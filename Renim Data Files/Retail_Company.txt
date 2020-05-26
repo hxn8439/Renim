@@ -1,0 +1,16 @@
+ClientId,Name,Address,RCCustomerId,RCOrderID,RCUsedDenim
+9203,Levis,"9091 Cotton Blvd, San Francisco,CA",14,154148,149
+9204,Madewell,"2380 Industrial Way,Los Angeles,CA",15,154149,84
+9205,Gap,"4828 Eagles Nest Drive,Redding,CA",13,154150,2
+9206,Everlane,"3163 Wilson Street,Bishop,CA",17,154151,20
+9207,Asos,"3670 Duck Creek Road,Palo Alto,CA",11,154152,200
+9208,Dawson,"4653 Fairfax Drive,City Of Commerce,CA",16,154153,45
+9209,Huit,"3675 Canis Heights Drive,Los Angeles,CA",7,154154,23
+9210,GoodAmerican,"3617 Jim Rosa Lane,Dublin,CA",6,154155,56
+9211,Jbrand,"2888 Ashcraft Court,El Cajon,CA",4,154156,65
+9212,Wrangler,"4005 Norman Street,Los Angeles,CA",10,154157,12
+9213,Calvin Klein,"4174 Locust Court,Norwalk,CA",12,154158,190
+9214,Diesel,"215 Angie Drive,Burbank,CA",9,154159,22
+9215,Guess,"2245 Wayside Lane,San Leandro,CA",8,154160,55
+9216,Balmain,"3436 Center Avenue,Fresno,CA",5,154161,33
+9217,Smith,"243 Canterbury Street,Pheonix,AZ",1,154162,48
